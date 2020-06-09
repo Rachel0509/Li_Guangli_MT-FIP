@@ -1,7 +1,7 @@
-##Description
+# Description
 1056-01-2 Week 5 Midterm FIP
 
-#Installation
+## Installation
 There is no installation process for this repo.Simply pulldown and start working!
 
 MIT License
